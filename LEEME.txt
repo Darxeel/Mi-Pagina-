@@ -1,0 +1,7 @@
+Abre index.html.
+Imágenes: assets/img/construcciones/.
+Títulos, categorías y portada: index.html.
+Redes y correo: js/configuracion.js.
+Colores: css/personalizado.css.
+Patreon y catálogo: https://www.patreon.com/c/Darxel
+Bootstrap y Lightbox requieren conexión a Internet.
